@@ -1,5 +1,5 @@
 {
-  "name": "mns-sdk",
+  "name": "@snowballmoney/mns-sdk",
   "version": "1.0.0",
   "description": "This SDK provides a clean and type-safe way to interact with your Snowstorm public API. ",
   "main": "dist/index.js",
